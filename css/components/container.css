@@ -1,0 +1,20 @@
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.container > p {
+  font-weight: lighter;
+  font-size: 20px;
+  opacity: .9;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.89);
+}
+
+.container > h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 3px 1px 5px rgba(0, 0, 0, 0.67);
+  font-size: 32px;
+  font-weight: lighter;
+}
